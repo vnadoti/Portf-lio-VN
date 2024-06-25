@@ -1,0 +1,31 @@
+@media (max-width: 1200px) {
+  .navbar__ul {
+    padding: 0% 5%;
+    align-items: end;
+    justify-content: center;
+  }
+
+  section {
+    flex-direction: column-reverse;
+    padding: 5%;
+  }
+
+  .container-textos {
+    width: auto;
+  }
+
+  .textos {
+    width: auto;
+  }
+
+  .img__banner {
+    width: 100%;
+  }
+
+  .fa-techs {
+  }
+
+  .tecnologias {
+    gap: 1rem;
+  }
+}
